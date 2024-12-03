@@ -18,7 +18,7 @@ The objective of the Sales Forecasting Project is to utilize historical sales da
 
 ##Tools and Libraries Used
 
-The text describes a data collection and storage system using SQL, Excel, NumPy, and scipy, as well as time-series analysis, machine learning, and visualization tools like Matplotlib, Seaborn, Plotly, and KPI Tracking Tools, and a development environment using Jupyter Notebook.
+The text describes a data collection and storage system using  Excel, NumPy, and scipy, as well as time-series analysis, machine learning, and visualization tools like Matplotlib, Plotly, and a development environment using Google colab.
 
 ##Data Source(s)
 
